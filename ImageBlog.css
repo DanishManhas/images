@@ -1,0 +1,15 @@
+img{
+	float:left;
+	width: 30%;
+	margin:1.66%;
+}
+p{
+	font-weight: 800;
+	font-family: raleway;
+	margin-left: 1.66%;
+	font-size: 23px;
+	margin-right: 1.66%;
+	border-bottom: 2px solid red;
+	padding-bottom: 15px;
+	
+}
